@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import Credit from '../Form/Credit'
+
 import ImgHome from './ImgHome'
 
 function Home() {
